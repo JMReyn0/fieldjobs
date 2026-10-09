@@ -7,7 +7,7 @@ tracking, document capture, and PDF reports. WPF / .NET 8, SQLite, no server.
 > A generalised, open-source extraction of a private line-of-business app; see
 > [PLAN.md](PLAN.md) for exactly what was renamed/genericised.
 
-![ci](https://github.com/justinmreynolds93-afk/fieldjobs/actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/JMReyn0/fieldjobs/actions/workflows/ci.yml/badge.svg)
 ![license](https://img.shields.io/badge/license-MIT-blue)
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4)
 
